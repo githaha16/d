@@ -1,11 +1,11 @@
-tqdm
-numpy==1.19.3
-numexpr
-h5py==2.10.0
-opencv-python==4.1.0.25
+#tqdm #remove or comment out like this
+#numpy #remove
+#numexpr #remove
+h5py==3.1.0
+opencv-python==4.5.1.48
 ffmpeg-python==0.1.17
-scikit-image==0.14.2
-scipy==1.4.1
+#scikit-image #remove
+#scipy #remove
 colorama
-tensorflow-gpu==2.4.0
+#tensorflow-gpu==2.5.0 #remove, the main culprit
 tf2onnx==1.9.3
