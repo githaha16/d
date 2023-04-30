@@ -1,8 +1,8 @@
 #tqdm #remove or comment out like this
 #numpy #remove
 #numexpr #remove
-h5py==3.1.0
-opencv-python==4.5.1.48
+h5py
+opencv-python
 ffmpeg-python==0.1.17
 #scikit-image #remove
 #scipy #remove
